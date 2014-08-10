@@ -1,7 +1,8 @@
 This repository is from the Coursera Johns Hopkins' Exploratory Data Analysis course.
 
-The original README.md is below.  Just download and uncompress the source file to folder.  
-Set that location as your working directory and you should be ready to go.
+The original README.md is below.  Just download and uncompress the source file.  
+Set that location where you downloaded the file as your working directory and you 
+should be ready to go.
 
 Please not that if you are running this in Rstudio and you get a "Error in plot.new() :
  figure margins too large" message, be sure that your plot window in RStudio (usually on 
